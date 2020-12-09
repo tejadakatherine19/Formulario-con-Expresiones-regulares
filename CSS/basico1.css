@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50pt;
+    font-style: italic;
+    font-weight: 400 ;
+    color: yellow;
+}
+h2{
+    
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50pt;
+    margin: auto;
+    font-style: italic;
+    font-weight: 400 ;
+    color: yellow;
+}
+h3{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50pt;
+    margin: auto;
+    font-style: italic;
+    font-weight: 400 ;
+    color: yellow;
+}
